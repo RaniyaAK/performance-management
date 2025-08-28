@@ -35,14 +35,11 @@ ul {
     font-weight: 400;
 }
 #home-banner {
-    background: url(./assets/mainimg.jpg);
+    background:url(./assets/mainimg.jpg);
     min-height: 483px;
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
-    
-    
-
 }
 #home-banner > div {
     display: grid;
@@ -183,7 +180,6 @@ footer {
 }
 
 .footer-menu li a{
-    /* background: linear-gradient(77.96deg, #0E2D52 68.98%, #66B6D4 118.9%); */
     color:white;
     text-decoration: none;
     gap: 20px;
